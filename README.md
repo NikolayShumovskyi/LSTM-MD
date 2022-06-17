@@ -1,6 +1,5 @@
 # Learning Molecular Dynamics with Simple Language Model built upon Long Short-Term Memory (LSTM) Neural Network
-This is an example showing how to use a simple [LSTM based lagnuage model](https://www.tensorflow.org/tutorials/text/text_generation) to learn a Langevin dynamics of a 4-state model potential described in [Nat. Commu. **11**, 5115 (2020)](https://www.nature.com/articles/s41467-020-18959-8). Please read and cite these manuscripts if using this example:
-[Nat. Commu. **11**, 5115 (2020)](https://www.nature.com/articles/s41467-020-18959-8)
+This is an example showing how to use a simple [LSTM based lagnuage model](https://www.tensorflow.org/tutorials/text/text_generation) to learn a Langevin dynamics of a 4-state model potential.
 
 # LSTM_LM_4s.py
 This file contains all settings, data preprocessing, loss function, and the model itself. The program is tested under tensorflow/1.10.1 with keras beckend. Simpy implement this file by
